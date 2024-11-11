@@ -9,8 +9,6 @@
 ## 목차
 
 1. [MySQL 아키텍쳐](chapter1/README.md)
-<<<<<<< HEAD
-
 
 ## 작성 방법
 - 각 단원별로 폴더를 만들고, `README.md` 파일에 내용을 정리합니다.
